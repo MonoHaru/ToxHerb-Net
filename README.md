@@ -31,7 +31,7 @@ ToxHerb-Net은 동의보감 기반 독초 판별 이미지 데이터를 활용�
 <img src="https://github.com/MonoHaru/ToxHerb-Net/blob/main/assets/results_1.png" alt="results_1" width="800">
 
 | Metric   | EfficeientNet-b4 with SE blocks |
-|----------|---------------------------------|
+|:----------:|:---------------------------------:|
 | Accuracy | 89.932 |
 | Loss     | 0.426  |
 

@@ -25,7 +25,7 @@ ToxHerb-Net은 동의보감 기반 독초 판별 이미지 데이터를 활용�
 3. 약 600GB 규모의 대규모 데이터셋 전이학습을 통해 최적 모델 선정
 
 ## 🏗️ Architecture
-<img src="https://github.com/MonoHaru/CCTV-EDR/blob/main/assets/process.png" alt="process" width="800">
+<img src="https://github.com/MonoHaru/ToxHerb-Net/blob/main/assets/process.png" alt="process" width="800">
 
 ## 🔮 Future
 1. 과적합(Overfitting) 완화 및 성능 향상을 위한 다양한 freeze/fine-tuning 전략 실험
